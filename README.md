@@ -33,7 +33,7 @@
   The models with trained parameters are put in the directory "./Model/2022-09-06-11-49-17/model/" and the predicted results of the test datasets are put in the directory "./Model/2022-09-06-11-49-17/result_metrics".
 ## 6 Usage
   The construction of the model is in the "AGATPPIS_model.py".<br>
-  You can run "train.py" to train the deep model from stratch and use the "test.py" to test the test datasets with the trained model.
+  You can run "train.py" to train the deep model from scratch and use the "test.py" to test the test datasets with the trained model.
 ## 7 Access for the paper of AGAT-PPIS
   Paper title: "AGAT-PPIS: A novel Protein-Protein Interaction Site predictor based on Augmented Graph Attention Network with initial residual and identity mapping". <br>
   Paper link: https://doi.org/10.1093/bib/bbad122
